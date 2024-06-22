@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mqefhf0oz-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mqefhf0oz-nodejs
